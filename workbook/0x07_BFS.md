@@ -2,7 +2,7 @@
 
 ![100%](https://progress-bar.dev/10/?scale=30&title=progress&width=500&color=babaca&suffix=/30)
 
-[문제 목록 링크](https://www.acmicpc.net/workbook/view/7307)
+[문제집 링크](https://www.acmicpc.net/workbook/view/7313)
 
 '⭐️'은 반드시 풀어보고 넘어가야할 문제!
 
