@@ -1,6 +1,6 @@
 # 스택 (Stack)
 
-![100%](https://progress-bar.dev/6/?scale=8&title=progress&width=500&color=babaca&suffix=/8)
+![100%](https://progress-bar.dev/5/?scale=8&title=progress&width=500&color=babaca&suffix=/8)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/7309)
 
