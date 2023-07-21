@@ -1,4 +1,4 @@
-# 큐 (Queue)
+# 큐 (Queue) 🏅
 
 ![100%](https://progress-bar.dev/3/?scale=3&title=progress&width=500&color=babaca&suffix=/3)
 
