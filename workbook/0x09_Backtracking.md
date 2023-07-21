@@ -1,6 +1,6 @@
 # 백트래킹 (Backtracking)
 
-![100%](https://progress-bar.dev/20/?scale=20&title=progress&width=500&color=babaca&suffix=/20)
+![100%](https://progress-bar.dev/0/?scale=20&title=progress&width=500&color=babaca&suffix=/20)
 
 [문제 목록 링크](https://www.acmicpc.net/workbook/view/7307)
 
