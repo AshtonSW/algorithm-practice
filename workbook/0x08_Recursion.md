@@ -1,6 +1,6 @@
 # 재귀 (Recursion)
 
-![100%](https://progress-bar.dev/4/?scale=10&title=progress&width=500&color=babaca&suffix=/10)
+![100%](https://progress-bar.dev/5/?scale=10&title=progress&width=500&color=babaca&suffix=/10)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/7314)
 

@@ -1,6 +1,6 @@
 # 다이나믹 프로그래밍 (Dynamic Programming)
 
-![100%](https://progress-bar.dev/0/?scale=44&title=progress&width=500&color=babaca&suffix=/44)
+![100%](https://progress-bar.dev/3/?scale=44&title=progress&width=500&color=babaca&suffix=/44)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/7319)
 
@@ -17,9 +17,9 @@
 
 | Solve! | 문제 분류 | ☆ | 문제 | 문제 제목 | 난이도 | 정답 코드 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-|| 연습 문제 | ⭐️ | 1463 | [1로 만들기](https://www.acmicpc.net/problem/1463) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x0D_Dynamicprogramming/1463.cpp) |
-|| 연습 문제 | ⭐️ | 9095 | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x0D_Dynamicprogramming/9095.cpp) |
-|| 연습 문제 | ⭐️ | 2579 | [계단 오르기](https://www.acmicpc.net/problem/2579) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x0D_Dynamicprogramming/2579.cpp) |
+| ✔ | 연습 문제 | ⭐️ | 1463 | [1로 만들기](https://www.acmicpc.net/problem/1463) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x0D_Dynamicprogramming/1463.cpp) |
+| ✔ | 연습 문제 | ⭐️ | 9095 | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x0D_Dynamicprogramming/9095.cpp) |
+| ✔ | 연습 문제 | ⭐️ | 2579 | [계단 오르기](https://www.acmicpc.net/problem/2579) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x0D_Dynamicprogramming/2579.cpp) |
 || 연습 문제 | ⭐️ | 1149 | [RGB거리](https://www.acmicpc.net/problem/1149) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [정답 코드](../0x0D_Dynamicprogramming/1149.cpp) |
 || 연습 문제 | ⭐️ | 11726 | [2×n 타일링](https://www.acmicpc.net/problem/11726) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x0D_Dynamicprogramming/11726.cpp) |
 || 연습 문제 | ⭐️ | 11659 | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x0D_Dynamicprogramming/11659.cpp) |
