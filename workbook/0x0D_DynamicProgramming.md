@@ -1,6 +1,6 @@
 # 다이나믹 프로그래밍 (Dynamic Programming)
 
-![100%](https://progress-bar.dev/3/?scale=44&title=progress&width=500&color=babaca&suffix=/44)
+![100%](https://progress-bar.dev/4/?scale=44&title=progress&width=500&color=babaca&suffix=/44)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/7319)
 
