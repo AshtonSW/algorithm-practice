@@ -1,6 +1,6 @@
 # 다이나믹 프로그래밍 (Dynamic Programming)
 
-![100%](https://progress-bar.dev/4/?scale=44&title=progress&width=500&color=babaca&suffix=/44)
+![100%](https://progress-bar.dev/9/?scale=44&title=progress&width=500&color=babaca&suffix=/44)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/7319)
 
@@ -20,12 +20,12 @@
 | ✔ | 연습 문제 | ⭐️ | 1463 | [1로 만들기](https://www.acmicpc.net/problem/1463) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x0D_Dynamicprogramming/1463.cpp) |
 | ✔ | 연습 문제 | ⭐️ | 9095 | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x0D_Dynamicprogramming/9095.cpp) |
 | ✔ | 연습 문제 | ⭐️ | 2579 | [계단 오르기](https://www.acmicpc.net/problem/2579) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x0D_Dynamicprogramming/2579.cpp) |
-|| 연습 문제 | ⭐️ | 1149 | [RGB거리](https://www.acmicpc.net/problem/1149) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [정답 코드](../0x0D_Dynamicprogramming/1149.cpp) |
-|| 연습 문제 | ⭐️ | 11726 | [2×n 타일링](https://www.acmicpc.net/problem/11726) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x0D_Dynamicprogramming/11726.cpp) |
+| ✔ | 연습 문제 | ⭐️ | 1149 | [RGB거리](https://www.acmicpc.net/problem/1149) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [정답 코드](../0x0D_Dynamicprogramming/1149.cpp) |
+| ✔ | 연습 문제 | ⭐️ | 11726 | [2×n 타일링](https://www.acmicpc.net/problem/11726) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x0D_Dynamicprogramming/11726.cpp) |
 || 연습 문제 | ⭐️ | 11659 | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x0D_Dynamicprogramming/11659.cpp) |
-|| 연습 문제 | ⭐️ | 12852 | [1로 만들기 2](https://www.acmicpc.net/problem/12852) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [정답 코드](../0x0D_Dynamicprogramming/12852.cpp) |
-|| 기본 문제 | ⭐️ | 1003 | [피보나치 함수](https://www.acmicpc.net/problem/1003) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x0D_Dynamicprogramming/1003.cpp) |
-|| 기본 문제 | ⭐️ | 1932 | [정수 삼각형](https://www.acmicpc.net/problem/1932) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [정답 코드](../0x0D_Dynamicprogramming/1932.cpp) |
+| ✔ | 연습 문제 | ⭐️ | 12852 | [1로 만들기 2](https://www.acmicpc.net/problem/12852) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [정답 코드](../0x0D_Dynamicprogramming/12852.cpp) |
+| ✔ | 기본 문제 | ⭐️ | 1003 | [피보나치 함수](https://www.acmicpc.net/problem/1003) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x0D_Dynamicprogramming/1003.cpp) |
+| ✔ | 기본 문제 | ⭐️ | 1932 | [정수 삼각형](https://www.acmicpc.net/problem/1932) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [정답 코드](../0x0D_Dynamicprogramming/1932.cpp) |
 || 기본 문제 | ⭐️ | 11727 | [2×n 타일링 2](https://www.acmicpc.net/problem/11727) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x0D_Dynamicprogramming/11727.cpp) |
 || 기본 문제 | ⭐️ | 2193 | [이친수](https://www.acmicpc.net/problem/2193) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x0D_Dynamicprogramming/2193.cpp) |
 || 기본 문제 | ⭐️ | 1912 | [연속합](https://www.acmicpc.net/problem/1912) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [정답 코드](../0x0D_Dynamicprogramming/1912.cpp) |
@@ -35,7 +35,7 @@
 || 기본 문제 | ⭐️ | 14501 | [퇴사](https://www.acmicpc.net/problem/14501) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x0D_Dynamicprogramming/14501.cpp) |
 || 기본 문제 | ⭐️ | 15486 | [퇴사 2](https://www.acmicpc.net/problem/15486) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [정답 코드](../0x0D_Dynamicprogramming/15486.cpp) |
 || 기본 문제 | ⭐️ | 10844 | [쉬운 계단 수](https://www.acmicpc.net/problem/10844) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [정답 코드](../0x0D_Dynamicprogramming/10844.cpp) |
-|| 기본 문제 || 2748 | [피보나치 수 2](https://www.acmicpc.net/problem/2748) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [정답 코드](../0x0D_Dynamicprogramming/2748.cpp) |
+| ✔ | 기본 문제 || 2748 | [피보나치 수 2](https://www.acmicpc.net/problem/2748) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [정답 코드](../0x0D_Dynamicprogramming/2748.cpp) |
 || 기본 문제 || 2240 | [자두나무](https://www.acmicpc.net/problem/2240) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [정답 코드](../0x0D_Dynamicprogramming/2240.cpp) |
 || 기본 문제 || 14002 | [가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [정답 코드](../0x0D_Dynamicprogramming/14002.cpp) |
 || 기본 문제 || 2156 | [포도주 시식](https://www.acmicpc.net/problem/2156) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [정답 코드](../0x0D_Dynamicprogramming/2156.cpp) |
