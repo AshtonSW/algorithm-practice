@@ -17,7 +17,6 @@
 
 | Solve! | 문제 분류 | ☆ | 문제 | 문제 제목 | 난이도 | 정답 코드 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-<<<<<<< HEAD
 | ✔ | 연습 문제 | ⭐️ | 1463 | [1로 만들기](https://www.acmicpc.net/problem/1463) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x0D_Dynamicprogramming/1463.cpp) |
 | ✔ | 연습 문제 | ⭐️ | 9095 | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x0D_Dynamicprogramming/9095.cpp) |
 | ✔ | 연습 문제 | ⭐️ | 2579 | [계단 오르기](https://www.acmicpc.net/problem/2579) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x0D_Dynamicprogramming/2579.cpp) |

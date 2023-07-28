@@ -23,10 +23,6 @@
 
 ⌨️ 각 문제의 정답 코드를 클릭하면, 풀이 및 코드를 볼 수 있습니다. (아직 풀지 않은 경우 볼 수 없음)
 
-2023 -07 - 21 업데이트
-
-(수학, 이분탐색, 투 포인터, 해시, 이진 검색 트리, 우선순위 큐, 그래프, 트리, 위상 정렬, 최소 신장 트리, 플로이드, 다익스트라, KMP, 트라이 추가예정)
-
 
 # 문제집
 | # | 완료 | 문제집 주제 | 진행도 |
@@ -45,5 +41,16 @@
 | 0x0C | |[Sort II](workbook/0x0C_Sort_II.md) | ![100%](https://progress-bar.dev/1/?scale=9&title=progress&width=500&color=babaca&suffix=/9) |
 | 0x0D | |[Dynamic Programming](workbook/0x0D_DynamicProgramming.md) | ![100%](https://progress-bar.dev/9/?scale=44&title=progress&width=500&color=babaca&suffix=/44) |
 | 0x0E | |[Greedy](workbook/0x0E_Greedy.md) | ![100%](https://progress-bar.dev/0/?scale=17&title=progress&width=500&color=babaca&suffix=/17) |
+| 0x0F | |[Priority Queue](workbook/0x0F_PriorityQueue.md) | ![100%](https://progress-bar.dev/2/?scale=8&title=progress&width=500&color=babaca&suffix=/8) |
 
 해당 문제들은 백준 온라인 저지 사이트의 user BaaaaaaaaaaarkingDog의 문제집을 참고하여 작성되었습니다.
+
+2023 - 07 - 21 업데이트
+
+(수학, 이분탐색, 투 포인터, 해시, 이진 검색 트리, 우선순위 큐, 그래프, 트리, 위상 정렬, 최소 신장 트리, 플로이드, 다익스트라, KMP, 트라이 추가예정)
+
+2023- 07 - 28 업데이트
+
+우선순위 큐 추가
+
+
