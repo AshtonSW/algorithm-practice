@@ -1,6 +1,6 @@
 # 백트래킹 (Backtracking)
 
-![100%](https://progress-bar.dev/0/?scale=20&title=progress&width=500&color=babaca&suffix=/20)
+![100%](https://progress-bar.dev/1/?scale=20&title=progress&width=500&color=babaca&suffix=/20)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/7315)
 
@@ -17,7 +17,7 @@
 
 | Solve! | 문제 분류 | ☆ | 문제 | 문제 제목 | 난이도 | 정답 코드 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-|| 연습 문제 | ⭐️ | 15649 | [N과 M (1)](https://www.acmicpc.net/problem/15649) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x09_Backtracking/15649.cpp) |
+| ✔ | 연습 문제 | ⭐️ | 15649 | [N과 M (1)](https://www.acmicpc.net/problem/15649) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x09_Backtracking/15649.cpp) |
 || 연습 문제 | ⭐️ | 9663 | [N-Queen](https://www.acmicpc.net/problem/9663) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [정답 코드](../0x09_Backtracking/9663.cpp) |
 || 연습 문제 | ⭐️ | 1182 | [부분수열의 합](https://www.acmicpc.net/problem/1182) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [정답 코드](../0x09_Backtracking/soluons/1182.cpp) |
 || 기본 문제 | ⭐️ | 15650 | [N과 M (2)](https://www.acmicpc.net/problem/15650) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x09_Backtracking/15650.cpp) |
