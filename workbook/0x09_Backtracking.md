@@ -1,6 +1,6 @@
 # 백트래킹 (Backtracking)
 
-![100%](https://progress-bar.dev/1/?scale=20&title=progress&width=500&color=babaca&suffix=/20)
+![100%](https://progress-bar.dev/10/?scale=20&title=progress&width=500&color=babaca&suffix=/20)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/7315)
 
@@ -18,16 +18,16 @@
 | Solve! | 문제 분류 | ☆ | 문제 | 문제 제목 | 난이도 | 정답 코드 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | ✔ | 연습 문제 | ⭐️ | 15649 | [N과 M (1)](https://www.acmicpc.net/problem/15649) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x09_Backtracking/15649.cpp) |
-|| 연습 문제 | ⭐️ | 9663 | [N-Queen](https://www.acmicpc.net/problem/9663) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [정답 코드](../0x09_Backtracking/9663.cpp) |
+| ✔ | 연습 문제 | ⭐️ | 9663 | [N-Queen](https://www.acmicpc.net/problem/9663) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [정답 코드](../0x09_Backtracking/9663.cpp) |
 || 연습 문제 | ⭐️ | 1182 | [부분수열의 합](https://www.acmicpc.net/problem/1182) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [정답 코드](../0x09_Backtracking/soluons/1182.cpp) |
-|| 기본 문제 | ⭐️ | 15650 | [N과 M (2)](https://www.acmicpc.net/problem/15650) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x09_Backtracking/15650.cpp) |
-|| 기본 문제 | ⭐️ | 15651 | [N과 M (3)](https://www.acmicpc.net/problem/15651) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x09_Backtracking/15651.cpp) |
-|| 기본 문제 | ⭐️ | 15652 | [N과 M (4)](https://www.acmicpc.net/problem/15652) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x09_Backtracking/15652.cpp) |
-|| 기본 문제 | ⭐️ | 15654 | [N과 M (5)](https://www.acmicpc.net/problem/15654) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x09_Backtracking/15654.cpp) |
-|| 기본 문제 | ⭐️ | 15655 | [N과 M (6)](https://www.acmicpc.net/problem/15655) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x09_Backtracking/15655.cpp) |
-|| 기본 문제 | ⭐️ | 15656 | [N과 M (7)](https://www.acmicpc.net/problem/15656) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x09_Backtracking/15656.cpp) |
-|| 기본 문제 | ⭐️ | 15657 | [N과 M (8)](https://www.acmicpc.net/problem/15657) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x09_Backtracking/15657.cpp) |
-|| 기본 문제 | ⭐️ | 15663 | [N과 M (9)](https://www.acmicpc.net/problem/15663) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [정답 코드](../0x09_Backtracking/15663.cpp) |
+| ✔ | 기본 문제 | ⭐️ | 15650 | [N과 M (2)](https://www.acmicpc.net/problem/15650) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x09_Backtracking/15650.cpp) |
+| ✔ | 기본 문제 | ⭐️ | 15651 | [N과 M (3)](https://www.acmicpc.net/problem/15651) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x09_Backtracking/15651.cpp) |
+| ✔ | 기본 문제 | ⭐️ | 15652 | [N과 M (4)](https://www.acmicpc.net/problem/15652) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x09_Backtracking/15652.cpp) |
+| ✔ | 기본 문제 | ⭐️ | 15654 | [N과 M (5)](https://www.acmicpc.net/problem/15654) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x09_Backtracking/15654.cpp) |
+| ✔ | 기본 문제 | ⭐️ | 15655 | [N과 M (6)](https://www.acmicpc.net/problem/15655) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x09_Backtracking/15655.cpp) |
+| ✔ | 기본 문제 | ⭐️ | 15656 | [N과 M (7)](https://www.acmicpc.net/problem/15656) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x09_Backtracking/15656.cpp) |
+| ✔ | 기본 문제 | ⭐️ | 15657 | [N과 M (8)](https://www.acmicpc.net/problem/15657) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x09_Backtracking/15657.cpp) |
+| ✔ | 기본 문제 | ⭐️ | 15663 | [N과 M (9)](https://www.acmicpc.net/problem/15663) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [정답 코드](../0x09_Backtracking/15663.cpp) |
 || 기본 문제 | ⭐️ | 15664 | [N과 M (10)](https://www.acmicpc.net/problem/15664) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [정답 코드](../0x09_Backtracking/15664.cpp) |
 || 기본 문제 | ⭐️ | 15665 | [N과 M (11)](https://www.acmicpc.net/problem/15665) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [정답 코드](../0x09_Backtracking/15665.cpp) |
 || 기본 문제 | ⭐️ | 15666 | [N과 M (12)](https://www.acmicpc.net/problem/15666) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [정답 코드](../0x09_Backtracking/15666.cpp) |
