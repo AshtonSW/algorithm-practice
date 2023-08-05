@@ -52,8 +52,7 @@
 | 0x17 | |[Minimum Spanning Tree](workbook/0x17_MinimumSpanningTree.md) | ![100%](https://progress-bar.dev/0/?scale=9&title=progress&width=500&color=babaca&suffix=/9) |
 | 0x18 | |[Floyd Warshall Algorithm](workbook/0x18_FloydWarshallAlgorithm.md) | ![100%](https://progress-bar.dev/1/?scale=15&title=progress&width=500&color=babaca&suffix=/15) |
 | 0x19 | |[Dijkstra Algorithm](workbook/0x19_DijkstraAlgorithm.md) | ![100%](https://progress-bar.dev/0/?scale=14&title=progress&width=500&color=babaca&suffix=/14) |
-| 0x1A | |[KMP](workbook/0x1A_KMP.md) | ![100%](https://progress-bar.dev/0/?scale=8&title=progress&width=500&color=babaca&suffix=/8) |
-| 0x1B | |[Trie](workbook/0x1B_Trie.md) | ![100%](https://progress-bar.dev/0/?scale=10&title=progress&width=500&color=babaca&suffix=/10) |
+| 0x1A | |[Trie](workbook/0x1B_Trie.md) | ![100%](https://progress-bar.dev/0/?scale=10&title=progress&width=500&color=babaca&suffix=/10) |
 
 해당 문제들은 백준 온라인 저지 사이트의 user BaaaaaaaaaaarkingDog의 문제집을 참고하여 작성되었습니다.
 
@@ -67,6 +66,6 @@
 
 2023 - 08 - 05 업데이트
 
-이분탐색, 투 포인터, 해쉬, 이진 검색 트리, 그래프, 트리, 위상정렬, MST, 플로이드, 다익스트라, KMP, 트라이 추가
+이분탐색, 투 포인터, 해쉬, 이진 검색 트리, 그래프, 트리, 위상정렬, MST, 플로이드, 다익스트라, 트라이 추가
 
 
