@@ -45,7 +45,7 @@
 | 0x10 | |[Binary Search](workbook/0x10_BinarySearch.md) | ![100%](https://progress-bar.dev/5/?scale=21&title=progress&width=500&color=babaca&suffix=/21) |
 | 0x11 | |[Two pointer](workbook/0x11_TwoPointer.md) | ![100%](https://progress-bar.dev/2/?scale=11&title=progress&width=500&color=babaca&suffix=/11) |
 | 0x12 | |[Hash](workbook/0x12_Hash.md) | ![100%](https://progress-bar.dev/3/?scale=10&title=progress&width=500&color=babaca&suffix=/10) |
-| 0x13 | |[Binary Search Tree](workbook/0x13_BinarySearchTree.md) | ![100%](https://progress-bar.dev/0/?scale=7&title=progress&width=500&color=babaca&suffix=/7) |
+| 0x13 | |[Binary Search Tree](workbook/0x13_BinarySearchTree.md) | ![100%](https://progress-bar.dev/2/?scale=7&title=progress&width=500&color=babaca&suffix=/7) |
 | 0x14 | |[Graph](workbook/0x14_Graph.md) | ![100%](https://progress-bar.dev/0/?scale=13&title=progress&width=500&color=babaca&suffix=/13) |
 | 0x15 | |[Tree](workbook/0x15_Tree.md) | ![100%](https://progress-bar.dev/0/?scale=13&title=progress&width=500&color=babaca&suffix=/13) |
 | 0x16 | |[Topological Sorting](workbook/0x16_TopologicalSorting.md) | ![100%](https://progress-bar.dev/0/?scale=13&title=progress&width=500&color=babaca&suffix=/7) |
