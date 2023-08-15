@@ -48,7 +48,7 @@
 | 0x13 | |[Binary Search Tree](workbook/0x13_BinarySearchTree.md) | ![100%](https://progress-bar.dev/2/?scale=7&title=progress&width=500&color=babaca&suffix=/7) |
 | 0x14 | |[Graph](workbook/0x14_Graph.md) | ![100%](https://progress-bar.dev/0/?scale=13&title=progress&width=500&color=babaca&suffix=/13) |
 | 0x15 | |[Tree](workbook/0x15_Tree.md) | ![100%](https://progress-bar.dev/0/?scale=13&title=progress&width=500&color=babaca&suffix=/13) |
-| 0x16 | |[Topological Sorting](workbook/0x16_TopologicalSorting.md) | ![100%](https://progress-bar.dev/0/?scale=13&title=progress&width=500&color=babaca&suffix=/7) |
+| 0x16 | |[Topological Sorting](workbook/0x16_TopologicalSorting.md) | ![100%](https://progress-bar.dev/4/?scale=13&title=progress&width=500&color=babaca&suffix=/7) |
 | 0x17 | |[Minimum Spanning Tree](workbook/0x17_MinimumSpanningTree.md) | ![100%](https://progress-bar.dev/0/?scale=9&title=progress&width=500&color=babaca&suffix=/9) |
 | 0x18 | |[Floyd Warshall Algorithm](workbook/0x18_FloydWarshallAlgorithm.md) | ![100%](https://progress-bar.dev/1/?scale=15&title=progress&width=500&color=babaca&suffix=/15) |
 | 0x19 | |[Dijkstra Algorithm](workbook/0x19_DijkstraAlgorithm.md) | ![100%](https://progress-bar.dev/0/?scale=14&title=progress&width=500&color=babaca&suffix=/14) |
