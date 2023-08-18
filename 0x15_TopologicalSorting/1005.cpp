@@ -11,7 +11,7 @@ int main() {
     cin >> tc;
     while (tc--) {
         vector <int> adj[1005] = {};
-        queue <int> Q = {};
+        queue <int> Q;
         int deg[1005] = {};
         int bt[1005] = {}; // buildTime
         int ans[1005] = {};
