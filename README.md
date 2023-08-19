@@ -40,7 +40,7 @@
 | 0x0B | |[Sort I](workbook/0x0B_Sort_I.md) | ![100%](https://progress-bar.dev/6/?scale=8&title=progress&width=500&color=babaca&suffix=/8) |
 | 0x0C | |[Sort II](workbook/0x0C_Sort_II.md) | ![100%](https://progress-bar.dev/1/?scale=9&title=progress&width=500&color=babaca&suffix=/9) |
 | 0x0D | |[Dynamic Programming](workbook/0x0D_DynamicProgramming.md) | ![100%](https://progress-bar.dev/9/?scale=44&title=progress&width=500&color=babaca&suffix=/44) |
-| 0x0E | |[Greedy](workbook/0x0E_Greedy.md) | ![100%](https://progress-bar.dev/0/?scale=17&title=progress&width=500&color=babaca&suffix=/17) |
+| 0x0E | |[Greedy](workbook/0x0E_Greedy.md) | ![100%](https://progress-bar.dev/9/?scale=17&title=progress&width=500&color=babaca&suffix=/17) |
 | 0x0F | |[Priority Queue](workbook/0x0F_PriorityQueue.md) | ![100%](https://progress-bar.dev/2/?scale=8&title=progress&width=500&color=babaca&suffix=/8) |
 | 0x10 | |[Binary Search](workbook/0x10_BinarySearch.md) | ![100%](https://progress-bar.dev/5/?scale=21&title=progress&width=500&color=babaca&suffix=/21) |
 | 0x11 | |[Two pointer](workbook/0x11_TwoPointer.md) | ![100%](https://progress-bar.dev/2/?scale=11&title=progress&width=500&color=babaca&suffix=/11) |
