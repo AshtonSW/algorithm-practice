@@ -32,7 +32,7 @@
 | 0x03 | 🏅 |[Linked List](workbook/0x03_LinkedList.md) | ![100%](https://progress-bar.dev/3/?scale=3&title=progress&width=500&color=babaca&suffix=/3) |
 | 0x04 | |[Stack](workbook/0x04_Stack.md) | ![100%](https://progress-bar.dev/5/?scale=8&title=progress&width=500&color=babaca&suffix=/8) |
 | 0x05 | 🏅 |[Queue](workbook/0x05_Queue.md) | ![100%](https://progress-bar.dev/3/?scale=3&title=progress&width=500&color=babaca&suffix=/3) |
-| 0x06 | |[Deque](workbook/0x06_Deque.md) | ![100%](https://progress-bar.dev/3/?scale=4&title=progress&width=500&color=babaca&suffix=/4) |
+| 0x06 | 🏅 |[Deque](workbook/0x06_Deque.md) | ![100%](https://progress-bar.dev/4/?scale=4&title=progress&width=500&color=babaca&suffix=/4) |
 | 0x07 | |[BFS](workbook/0x07_BFS.md) | ![100%](https://progress-bar.dev/11/?scale=30&title=progress&width=500&color=babaca&suffix=/30) |
 | 0x08 | |[Recursion](workbook/0x08_Recursion.md) | ![100%](https://progress-bar.dev/5/?scale=10&title=progress&width=500&color=babaca&suffix=/10) |
 | 0x09 | |[Backtracking](workbook/0x09_Backtracking.md) | ![100%](https://progress-bar.dev/10/?scale=20&title=progress&width=500&color=babaca&suffix=/20) |

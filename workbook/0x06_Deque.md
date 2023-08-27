@@ -1,6 +1,6 @@
 # 덱 (Deque)
 
-![100%](https://progress-bar.dev/3/?scale=4&title=progress&width=500&color=babaca&suffix=/4)
+![100%](https://progress-bar.dev/4/?scale=4&title=progress&width=500&color=babaca&suffix=/4)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/7311)
 
@@ -20,5 +20,5 @@
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | ✔ | 연습 문제 | ⭐️ | 10866 | [덱](https://www.acmicpc.net/problem/10866) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [정답 코드](../0x07/solutions/10866.cpp) |
 | ✔ | 기본 문제 | ⭐️ | 1021 | [회전하는 큐](https://www.acmicpc.net/problem/1021) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x07/solutions/1021.cpp) |
-|  | 응용 문제 | ⭐️ | 5430 | [AC](https://www.acmicpc.net/problem/5430) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | - |
+| ✔ | 응용 문제 | ⭐️ | 5430 | [AC](https://www.acmicpc.net/problem/5430) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | - |
 | ✔ | 응용 문제 | | 11003 | [최솟값 찾기](https://www.acmicpc.net/problem/11003) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/16.svg"/> | [정답 코드](../0x07/solutions/11003.cpp) |
