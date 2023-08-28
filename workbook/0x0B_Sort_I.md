@@ -1,6 +1,6 @@
 # 정렬 I (Sort I)
 
-![100%](https://progress-bar.dev/6/?scale=8&title=progress&width=500&color=babaca&suffix=/8)
+![100%](https://progress-bar.dev/8/?scale=8&title=progress&width=500&color=babaca&suffix=/8)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/7317)
 
@@ -23,5 +23,5 @@
 | ✔ | 기본 문제 || 11931 | [수 정렬하기 4](https://www.acmicpc.net/problem/11931) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [정답 코드](../0x0B_Sort_I/11931.cpp) |
 | ✔ | 기본 문제 || 15688 | [수 정렬하기 5](https://www.acmicpc.net/problem/15688) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [정답 코드](../0x0B_Sort_I/15688.cpp) |
 | ✔ | 기본 문제 || 10814 | [나이순 정렬](https://www.acmicpc.net/problem/10814) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [정답 코드](../0x0B_Sort_I/10814.cpp) |
-|| 기본 문제 || 11650 | [좌표 정렬하기](https://www.acmicpc.net/problem/11650) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [정답 코드](../0x0B_Sort_I/11650.cpp) |
-|| 기본 문제 || 11651 | [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [정답 코드](../0x0B_Sort_I/11651.cpp) |
+| ✔ | 기본 문제 || 11650 | [좌표 정렬하기](https://www.acmicpc.net/problem/11650) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [정답 코드](../0x0B_Sort_I/11650.cpp) |
+| ✔ | 기본 문제 || 11651 | [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [정답 코드](../0x0B_Sort_I/11651.cpp) |
