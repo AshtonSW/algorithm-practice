@@ -1,6 +1,6 @@
 # 투 포인터(Two Pointer)
 
-![100%](https://progress-bar.dev/2/?scale=11&title=progress&width=500&color=babaca&suffix=/11)
+![100%](https://progress-bar.dev/3/?scale=11&title=progress&width=500&color=babaca&suffix=/11)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/8709)
 
@@ -20,7 +20,7 @@
 | ✔ | 연습 문제 | ⭐️ | 2230 | [수 고르기](https://www.acmicpc.net/problem/2230) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [정답 코드](../0x11_TwoPointer/2230.cpp) |
 | ✔ | 연습 문제 | ⭐️ |1806 | [부분합](https://www.acmicpc.net/problem/1806) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [정답 코드](../0x11_TwoPointer/1806.cpp) |
 || 기본 문제 | ⭐️ | 1644 | [소수의 연속합](https://www.acmicpc.net/problem/1644) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [정답 코드](../0x11_TwoPointer/1644.cpp) |
-|| 기본 문제 | ⭐️ | 2003 | [수들의 합 2](https://www.acmicpc.net/problem/2003) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [정답 코드](../0x11_TwoPointer/2003.cpp) |
+| ✔ | 기본 문제 | ⭐️ | 2003 | [수들의 합 2](https://www.acmicpc.net/problem/2003) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [정답 코드](../0x11_TwoPointer/2003.cpp) |
 || 응용 문제 | ⭐️ | 13144 | [List of Unique Numbers](https://www.acmicpc.net/problem/13144) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [정답 코드](../0x11_TwoPointer/13144.cpp) |
 || 응용 문제 | ⭐️ | 22862 | [가장 긴 짝수 연속한 부분 수열 (large)](https://www.acmicpc.net/problem/22862) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [정답 코드](../0x11_TwoPointer/22862.cpp) |
 || 응용 문제 | ⭐️ | 2531 | [회전 초밥](https://www.acmicpc.net/problem/2531) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [정답 코드](../0x11_TwoPointer/2531.cpp) |
