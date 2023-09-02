@@ -1,6 +1,6 @@
 # 우선순위 큐 (Priority Queue)
 
-![100%](https://progress-bar.dev/5/?scale=8&title=progress&width=500&color=babaca&suffix=/8)
+![100%](https://progress-bar.dev/6/?scale=8&title=progress&width=500&color=babaca&suffix=/8)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/9502)
 
@@ -22,6 +22,6 @@
 | ✔ | 기본 문제 | ⭐️ | 1927 | [최소 힙](https://www.acmicpc.net/problem/1927) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [정답 코드](../0x0F_PriorityQueue/1927.cpp) |
 | ✔ | 기본 문제 | ⭐️ | 2075 | [N번째 큰 수](https://www.acmicpc.net/problem/2075) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [정답 코드](../0x0F_PriorityQueue/2075.cpp) |
 | ✔ | 기본 문제 |  | 11279 | [최대 힙](https://www.acmicpc.net/problem/11279) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [정답 코드](../0x0F_PriorityQueue/11279.cpp) |
-|| 기본 문제 |  | 13975 | [파일 합치기 3](https://www.acmicpc.net/problem/13975) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [정답 코드](../0x0F_PriorityQueue/13975.cpp) |
+| ✔ | 기본 문제 |  | 13975 | [파일 합치기 3](https://www.acmicpc.net/problem/13975) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [정답 코드](../0x0F_PriorityQueue/13975.cpp) |
 || 응용 문제 | ⭐️ | 1655 | [가운데를 말해요](https://www.acmicpc.net/problem/1655) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [정답 코드](../0x0F_PriorityQueue/1655.cpp) |
 || 응용 문제 | ⭐️ | 1781 | [컵라면](https://www.acmicpc.net/problem/1781) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [정답 코드](../0x0F_PriorityQueue/1781.cpp) |
