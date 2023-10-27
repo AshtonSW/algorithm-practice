@@ -28,7 +28,7 @@
 | ✔ | 기본 문제 | ⭐️ | 7562 | [나이트의 이동](https://www.acmicpc.net/problem/7562) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [정답 코드](../0x07_BFS/7562.cpp) |
 | ✔ | 기본 문제 | ⭐️ | 5427 | [불](https://www.acmicpc.net/problem/5427) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [정답 코드](../0x07_BFS/5427.cpp) |
 | ✔ | 기본 문제 | | 2583 | [영역 구하기](https://www.acmicpc.net/problem/2583) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [정답 코드](../0x07_BFS/2583.cpp) |
-|  | 기본 문제 | | 2667 | [단지번호붙이기](https://www.acmicpc.net/problem/2667) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [정답 코드](../0x07_BFS/2667.cpp) |
+| ✔ | 기본 문제 | | 2667 | [단지번호붙이기](https://www.acmicpc.net/problem/2667) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [정답 코드](../0x07_BFS/2667.cpp) |
 |  | 기본 문제 | | 5014 | [스타트링크](https://www.acmicpc.net/problem/5014) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [정답 코드](../0x07_BFS/5014.cpp) |
 |  | 기본 문제 | | 2468 | [안전 영역](https://www.acmicpc.net/problem/2468) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [정답 코드](../0x07_BFS/2468.cpp) |
 |  | 기본 문제 | | 6593 | [상범 빌딩](https://www.acmicpc.net/problem/6593) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [정답 코드](../0x07_BFS/6593.cpp) |
