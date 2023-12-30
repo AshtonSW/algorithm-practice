@@ -37,18 +37,14 @@
 | 0x08 | |[Recursion](workbook/0x08_Recursion.md) | ![100%](https://progress-bar.dev/5/?scale=10&title=progress&width=500&color=babaca&suffix=/10) |
 | 0x09 | |[Backtracking](workbook/0x09_Backtracking.md) | ![100%](https://progress-bar.dev/10/?scale=20&title=progress&width=500&color=babaca&suffix=/20) |
 | 0x0A | |[Simulation](workbook/0x0A_Simulation.md) | ![100%](https://progress-bar.dev/1/?scale=61&title=progress&width=500&color=babaca&suffix=/61) |
-| 0x0B | 🏅 |[Sort I](workbook/0x0B_Sort_I.md) | ![100%](https://progress-bar.dev/8/?scale=8&title=progress&width=500&color=babaca&suffix=/8) |
+| 0x0B | | 🏅 |[Sort I](workbook/0x0B_Sort_I.md) | ![100%](https://progress-bar.dev/8/?scale=8&title=progress&width=500&color=babaca&suffix=/8) |
 | 0x0C | |[Sort II](workbook/0x0C_Sort_II.md) | ![100%](https://progress-bar.dev/7/?scale=9&title=progress&width=500&color=babaca&suffix=/9) |
 | 0x0D | |[Dynamic Programming](workbook/0x0D_DynamicProgramming.md) | ![100%](https://progress-bar.dev/19/?scale=44&title=progress&width=500&color=babaca&suffix=/44) |
 | 0x0E | |[Greedy](workbook/0x0E_Greedy.md) | ![100%](https://progress-bar.dev/10/?scale=17&title=progress&width=500&color=babaca&suffix=/17) |
 | 0x0F | |[Priority Queue](workbook/0x0F_PriorityQueue.md) | ![100%](https://progress-bar.dev/7/?scale=8&title=progress&width=500&color=babaca&suffix=/8) |
 | 0x10 | |[Binary Search](workbook/0x10_BinarySearch.md) | ![100%](https://progress-bar.dev/6/?scale=21&title=progress&width=500&color=babaca&suffix=/21) |
 | 0x11 | |[Two pointer](workbook/0x11_TwoPointer.md) | ![100%](https://progress-bar.dev/3/?scale=11&title=progress&width=500&color=babaca&suffix=/11) |
-<<<<<<< HEAD
-| 0x12 | |[Hash](workbook/0x12_Hash.md) | ![100%](https://progress-bar.dev/5/?scale=10&title=progress&width=500&color=babaca&suffix=/10) |
-=======
 | 0x12 | |[Hash](workbook/0x12_Hash.md) | ![100%](https://progress-bar.dev/4/?scale=10&title=progress&width=500&color=babaca&suffix=/10) |
->>>>>>> 6a839267ff1e7b966159c4fa672215e72aadb0f0
 | 0x13 | |[Binary Search Tree](workbook/0x13_BinarySearchTree.md) | ![100%](https://progress-bar.dev/2/?scale=7&title=progress&width=500&color=babaca&suffix=/7) |
 | 0x14 | |[Graph](workbook/0x14_Graph.md) | ![100%](https://progress-bar.dev/4/?scale=13&title=progress&width=500&color=babaca&suffix=/13) |
 | 0x15 | |[Tree](workbook/0x15_Tree.md) | ![100%](https://progress-bar.dev/1/?scale=13&title=progress&width=500&color=babaca&suffix=/13) |
