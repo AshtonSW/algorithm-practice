@@ -22,8 +22,8 @@
 | ✔ | 기본 문제 | ⭐️ | 13414 | [수강신청](https://www.acmicpc.net/problem/13414) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x12_Hash/13414.cpp) |
 | ✔ | 기본 문제 | ⭐️ | 17219 | [비밀번호 찾기](https://www.acmicpc.net/problem/17219) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [정답 코드](../0x12_Hash/17219.cpp) |
 | ✔ | 기본 문제 | ⭐️ | 9375 | [패션왕 신해빈](https://www.acmicpc.net/problem/9375) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x12_Hash/9375.cpp) |
-|| 기본 문제 |  | 16165 | [걸그룹 마스터 준석이](https://www.acmicpc.net/problem/16165) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x12_Hash/16165.cpp) |
-|| 기본 문제 |  | 11478 | [서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x12_Hash/11478.cpp) |
-|| 기본 문제 |  | 19583 | [싸이버개강총회](https://www.acmicpc.net/problem/19583) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [정답 코드](../0x12_Hash/19583.cpp) |
+| ✔ | 기본 문제 |  | 16165 | [걸그룹 마스터 준석이](https://www.acmicpc.net/problem/16165) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x12_Hash/16165.cpp) |
+| ✔ | 기본 문제 |  | 11478 | [서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x12_Hash/11478.cpp) |
+| ✔ | 기본 문제 |  | 19583 | [싸이버개강총회](https://www.acmicpc.net/problem/19583) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [정답 코드](../0x12_Hash/19583.cpp) |
 || 응용 문제 | ⭐️ | 20166 | [문자열 지옥에 빠진 호석](https://www.acmicpc.net/problem/20166) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [정답 코드](../0x12_Hash/20166.cpp) |
-|| 응용 문제 | ⭐️ | 1351 | [무한 수열](https://www.acmicpc.net/problem/1351) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [정답 코드](../0x12_Hash/1351.cpp) |
+| ✔ | 응용 문제 | ⭐️ | 1351 | [무한 수열](https://www.acmicpc.net/problem/1351) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [정답 코드](../0x12_Hash/1351.cpp) |

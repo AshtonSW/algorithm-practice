@@ -30,7 +30,7 @@
 | ✔ | 기본 문제 | ⭐️ | 15663 | [N과 M (9)](https://www.acmicpc.net/problem/15663) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [정답 코드](../0x09_Backtracking/15663.cpp) |
 || 기본 문제 | ⭐️ | 15664 | [N과 M (10)](https://www.acmicpc.net/problem/15664) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [정답 코드](../0x09_Backtracking/15664.cpp) |
 || 기본 문제 | ⭐️ | 15665 | [N과 M (11)](https://www.acmicpc.net/problem/15665) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [정답 코드](../0x09_Backtracking/15665.cpp) |
-|| 기본 문제 | ⭐️ | 15666 | [N과 M (12)](https://www.acmicpc.net/problem/15666) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [정답 코드](../0x09_Backtracking/15666.cpp) |
+| ✔ | 기본 문제 | ⭐️ | 15666 | [N과 M (12)](https://www.acmicpc.net/problem/15666) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [정답 코드](../0x09_Backtracking/15666.cpp) |
 || 기본 문제 | ⭐️ | 6603 | [로또](https://www.acmicpc.net/problem/6603) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [정답 코드](../0x09_Backtracking/6603.cpp) |
 || 기본 문제 |     | 1759 | [암호 만들기](https://www.acmicpc.net/problem/1759) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [정답 코드](../0x09_Backtracking/1759.cpp) |
 || 응용 문제 | ⭐️ | 1941 | [소문난 칠공주](https://www.acmicpc.net/problem/1941) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [정답 코드](../0x09_Backtracking/1941.cpp) |

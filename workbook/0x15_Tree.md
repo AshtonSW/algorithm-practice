@@ -15,8 +15,8 @@
 
 | Solve! | 문제 분류 | ☆ | 문제 | 문제 제목 | 난이도 | 정답 코드 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-|| 연습 문제 | ⭐️ | 11725 | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [정답 코드](../0x15_Tree/11725.cpp) |
-|| 연습 문제 | ⭐️ | 1991 | [트리 순회](https://www.acmicpc.net/problem/1991) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [정답 코드](../0x15_Tree/1991.cpp) |
+| ✔ | 연습 문제 | ⭐️ | 11725 | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [정답 코드](../0x15_Tree/11725.cpp) |
+| ✔ | 연습 문제 | ⭐️ | 1991 | [트리 순회](https://www.acmicpc.net/problem/1991) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [정답 코드](../0x15_Tree/1991.cpp) |
 || 기본 문제 | ⭐️ | 4803 | [트리](https://www.acmicpc.net/problem/4803) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [정답 코드](../0x15_Tree/4803.cpp) |
 || 기본 문제 | ⭐️ | 15681 | [트리와 쿼리](https://www.acmicpc.net/problem/15681) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [정답 코드](../0x15_Tree/15681.cpp) |
 || 기본 문제 | ⭐️ | 1240 | [노드사이의 거리](https://www.acmicpc.net/problem/1240) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [정답 코드](../0x15_Tree/1240.cpp) |

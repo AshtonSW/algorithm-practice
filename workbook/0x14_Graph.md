@@ -17,10 +17,10 @@
 
 | Solve! | 문제 분류 | ☆ | 문제 | 문제 제목 | 난이도 | 정답 코드 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-|| 연습 문제 | ⭐️ | 11724 | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [정답 코드](../0x14_Graph/11724.cpp) |
-|| 연습 문제 | ⭐️ |1260 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [정답 코드](../00x14_Graphx18/1260.cpp) |
-|| 기본 문제 | ⭐️ | 2606 | [바이러스](https://www.acmicpc.net/problem/2606) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x14_Graph/2606.cpp) |
-|| 기본 문제 | ⭐️ | 5567 | [결혼식](https://www.acmicpc.net/problem/5567) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [정답 코드](../0x14_Graph/5567.cpp) |
+| ✔ | 연습 문제 | ⭐️ | 11724 | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [정답 코드](../0x14_Graph/11724.cpp) |
+| ✔ | 연습 문제 | ⭐️ |1260 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [정답 코드](../00x14_Graphx18/1260.cpp) |
+| ✔ | 기본 문제 | ⭐️ | 2606 | [바이러스](https://www.acmicpc.net/problem/2606) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [정답 코드](../0x14_Graph/2606.cpp) |
+| ✔ | 기본 문제 | ⭐️ | 5567 | [결혼식](https://www.acmicpc.net/problem/5567) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [정답 코드](../0x14_Graph/5567.cpp) |
 || 기본 문제 | ⭐️ | 11403 | [경로 찾기](https://www.acmicpc.net/problem/11403) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [정답 코드](../0x14_Graph/11403.cpp) |
 || 기본 문제 | ⭐️ | 2660 | [회장뽑기](https://www.acmicpc.net/problem/2660) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [정답 코드](../0x14_Graph/2660.cpp) |
 || 기본 문제 || 1389 | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [정답 코드](../0x14_Graph/1389.cpp) |
