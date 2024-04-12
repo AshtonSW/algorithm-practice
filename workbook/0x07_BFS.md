@@ -1,6 +1,6 @@
 # BFS
 
-![100%](https://progress-bar.dev/12/?scale=30&title=progress&width=500&color=babaca&suffix=/30)
+![100%](https://progress-bar.dev/14/?scale=30&title=progress&width=500&color=babaca&suffix=/30)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/7313)
 
@@ -30,7 +30,7 @@
 | ✔ | 기본 문제 | | 2583 | [영역 구하기](https://www.acmicpc.net/problem/2583) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [정답 코드](../0x07_BFS/2583.cpp) |
 | ✔ | 기본 문제 | | 2667 | [단지번호붙이기](https://www.acmicpc.net/problem/2667) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [정답 코드](../0x07_BFS/2667.cpp) |
 |  | 기본 문제 | | 5014 | [스타트링크](https://www.acmicpc.net/problem/5014) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [정답 코드](../0x07_BFS/5014.cpp) |
-|  | 기본 문제 | | 2468 | [안전 영역](https://www.acmicpc.net/problem/2468) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [정답 코드](../0x07_BFS/2468.cpp) |
+| ✔ | 기본 문제 | | 2468 | [안전 영역](https://www.acmicpc.net/problem/2468) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [정답 코드](../0x07_BFS/2468.cpp) |
 |  | 기본 문제 | | 6593 | [상범 빌딩](https://www.acmicpc.net/problem/6593) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [정답 코드](../0x07_BFS/6593.cpp) |
 |  | 응용 문제 | ⭐️ | 2206 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [정답 코드](../0x07_BFS/2206.cpp) |
 |  | 응용 문제 | ⭐️ | 9466 | [텀 프로젝트](https://www.acmicpc.net/problem/9466) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [정답 코드](../0x07_BFS/9466.cpp) |
