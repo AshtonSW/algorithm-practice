@@ -1,6 +1,6 @@
 # 해시 (Hash)
 
-![100%](https://progress-bar.dev/3/?scale=10&title=progress&width=500&color=babaca&suffix=/10)
+![100%](https://progress-bar.dev/9/?scale=10&title=progress&width=500&color=babaca&suffix=/10)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/9063)
 
