@@ -2,8 +2,6 @@
 #include <vector>
 #include <algorithm>
 using namespace std;
-#define X first
-#define Y second
 
 long long ans;
 int n, t;
@@ -23,13 +21,14 @@ void seqSum(vector<int> v){
 int main() {
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
+
     cin >> n;
     vector<int> pos, neg;
     for(int i = 0; i < n; i++){
         cin >> t;
         if(t == 1) ans++;
-        else if(t < 0) neg.push_back(t);
-        else pos.push_back(t);
+        else if(t > 0) pos.push_back(t);
+        else neg.push_back(t);
     }
     sort(pos.begin(), pos.end());
     sort(neg.begin(), neg.end(), greater<int>());
