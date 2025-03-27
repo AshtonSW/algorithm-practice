@@ -10,51 +10,79 @@ using ll = long long;
 vector<int> adj2[10];
 bool vis[10];
     
+// 연결 그래프에서의 순회
+vector<int> adj[10];
+bool vis[10];
 void bfs() {
-    queue<int> q;
-    q.push(1);
+    queue<int> Q;
+    Q.push(1);
     vis[1] = true;
-    while(!q.empty()) {
-        int cur = q.front();
-        q.pop();
-        cout << cur << ' ';
-        for(auto nxt : adj2[cur]) {
+    while(!Q.empty()){
+        int cur = Q.front();
+        Q.pop();
+        for(auto nxt : adj[cur]) {
             if(vis[nxt]) continue;
-            q.push(nxt);
+            Q.push(nxt);
             vis[nxt] = true;
         }
     }
 }
 
-
+// 연결 그래프에서 1번 정점과의 거리
 vector <int> adj3[10];
 int dist[10];
 void bfs2() {
-    fill(dist, dist+10, -1);
-    queue<int> q;
-    q.push(1);
+    fill(dist, dist + 10 , -1);
+    queue<int> Q;
+    Q.push(1);
     dist[1] = 0;
-    while(!q.empty()){
-        int cur = q.front();
-        q.pop();
-        for(auto nxt : adj3[cur]){
+    while(!Q.empty()){
+        int cur = Q.front();
+        Q.pop();
+        for(auto nxt: adj3[cur]) {
             if(dist[nxt] != -1) continue;
-            q.push(nxt);
+            Q.push(nxt);
             dist[nxt] = dist[cur] + 1;
         }
     }
 }
 
+
+// 연결 그래프가 아닐 때 순회
+vector<int> adj[10];
+bool vis[10];
+int v = 9;
+void bfs() {
+    queue<int> Q;
+    for(int i = 0; i <= v; i++){
+        if(vis[i] == true) continue;
+        Q.push(i);
+        vis[i] = true;
+        while(!Q.empty()) {
+            int cur = Q.front();
+            Q.pop();
+            for(auto nxt : adj[cur]) {
+                if(vis[nxt] == 1) continue;
+                Q.push(nxt);
+                vis[nxt] = true;
+            }
+        }
+    }
+}
+
+// 연결 그래프에서의 순회, 비재귀
 vector<int> adj4[10];
 bool vis2[10];
-void dfs(){
+
+void dfs() {
     stack<int> s;
     s.push(1);
-    vis2[1] = true;
-    while(!s.empty()) {
+    vis[1] = true;
+    while(!s.empty()){
         int cur = s.top();
         s.pop();
-        for(auto nxt : adj4[cur]){
+        cout << cur << " ";
+        for(auto nxt : adj[cur]) {
             if(vis[nxt]) continue;
             s.push(nxt);
             vis[nxt] = true;
@@ -62,14 +90,15 @@ void dfs(){
     }
 }
 
-vector<int> adj5[10];
+// 연결 그래프에서의 순회, 재귀
+vector<int> adj[10];
 bool vis[10];
-void dfs2(int cur) {
+void dfs(int cur) {
     vis[cur] = true;
-    cout << cur << " ";
-    for(auto nxt : adj5[cur]){
+    cout << cur << ' ';
+    for(auto nxt: adj[cur]){
         if(vis[nxt]) continue;
-        dfs2(nxt);
+        dfs(nxt);
     }
 }
 
