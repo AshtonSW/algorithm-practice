@@ -32,7 +32,7 @@
 | 0x01 | 🏅 |[Basics](workbook/0x01_Basics.md) | ![100%](https://progress-bar.xyz/27/?scale=27&title=progress&width=500&color=babaca&suffix=/27) |
 | 0x02 | 🏅 |[Array](workbook/0x02_Array.md) | ![100%](https://progress-bar.xyz/8/?scale=8&title=progress&width=500&color=babaca&suffix=/8) |
 | 0x03 | 🏅 |[Linked List](workbook/0x03_LinkedList.md) | ![100%](https://progress-bar.xyz/3/?scale=3&title=progress&width=500&color=babaca&suffix=/3) |
-| 0x04 | |[Stack](workbook/0x04_Stack.md) | ![100%](https://progress-bar.xyz/5/?scale=8&title=progress&width=500&color=babaca&suffix=/8) |
+| 0x04 | |[Stack](workbook/0x04_Stack.md) | ![100%](https://progress-bar.xyz/6/?scale=8&title=progress&width=500&color=babaca&suffix=/8) |
 | 0x05 | 🏅 |[Queue](workbook/0x05_Queue.md) | ![100%](https://progress-bar.xyz/3/?scale=3&title=progress&width=500&color=babaca&suffix=/3) |
 | 0x06 | 🏅 |[Deque](workbook/0x06_Deque.md) | ![100%](https://progress-bar.xyz/4/?scale=4&title=progress&width=500&color=babaca&suffix=/4) |
 | 0x07 | |[BFS](workbook/0x07_BFS.md) | ![100%](https://progress-bar.xyz/14/?scale=30&title=progress&width=500&color=babaca&suffix=/30) |
