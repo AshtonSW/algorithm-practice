@@ -11,6 +11,7 @@ int dy[4] = {0, 1, 0, -1};
 
 int n, m;
 int board[302][302];
+int tmp[302][302];
 
 queue <pair<int, int>> Q;
 int main() {
@@ -30,6 +31,7 @@ int main() {
     while(true) {
         int cnt = 0;
         bool vis[302][302] = {};
+        memcpy(tmp, board, sizeof(board));
         for(int i = 0; i < n; i++) {
             for(int j = 0; j < m; j++) {
                 if(board[i][j] != 0 && !vis[i][j]) {
@@ -48,8 +50,8 @@ int main() {
                                 Q.push({nx, ny});
                             }
                         }
-                        board[cur.X][cur.Y] -= sea;
-                        if(board[cur.X][cur.Y] < 0) board[cur.X][cur.Y] = 0;
+                        tmp[cur.X][cur.Y] -= sea;
+                        if(tmp[cur.X][cur.Y] < 0) tmp[cur.X][cur.Y] = 0;
                     }
                     cnt++;
                 }
@@ -63,7 +65,7 @@ int main() {
             cout << minTime;
             return 0;
         }
-
+        memcpy(board, tmp, sizeof(board));
         minTime++;
     }
 }
