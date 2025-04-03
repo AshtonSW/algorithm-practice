@@ -32,11 +32,11 @@
 |  | 기본 문제 | | 5014 | [스타트링크](https://www.acmicpc.net/problem/5014) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [정답 코드](../0x07_BFS/5014.cpp) |
 | ✔ | 기본 문제 | | 2468 | [안전 영역](https://www.acmicpc.net/problem/2468) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [정답 코드](../0x07_BFS/2468.cpp) |
 |  | 기본 문제 | | 6593 | [상범 빌딩](https://www.acmicpc.net/problem/6593) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [정답 코드](../0x07_BFS/6593.cpp) |
-|  | 응용 문제 | ⭐️ | 2206 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [정답 코드](../0x07_BFS/2206.cpp) |
+| ✔ | 응용 문제 | ⭐️ | 2206 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [정답 코드](../0x07_BFS/2206.cpp) |
 |  | 응용 문제 | ⭐️ | 9466 | [텀 프로젝트](https://www.acmicpc.net/problem/9466) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [정답 코드](../0x07_BFS/9466.cpp) |
-|  | 응용 문제 | ⭐️ | 2573 | [빙산](https://www.acmicpc.net/problem/2573) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [정답 코드](../0x07_BFS/2573.cpp) |
+| ✔ | 응용 문제 | ⭐️ | 2573 | [빙산](https://www.acmicpc.net/problem/2573) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [정답 코드](../0x07_BFS/2573.cpp) |
 |  | 응용 문제 | ⭐️ | 2146 | [다리 만들기](https://www.acmicpc.net/problem/2146) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [정답 코드](../0x07_BFS/2146.cpp) |
-|  | 응용 문제 | ⭐️ | 13549 | [숨바꼭질 3](https://www.acmicpc.net/problem/13549) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [정답 코드](../0x07_BFS/13549.cpp) |
+| ✔ | 응용 문제 | ⭐️ | 13549 | [숨바꼭질 3](https://www.acmicpc.net/problem/13549) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [정답 코드](../0x07_BFS/13549.cpp) |
 |  | 응용 문제 | ⭐️ | 1600 | [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [정답 코드](../0x07_BFS/1600.cpp) |
 |  | 응용 문제 | | 13913 | [숨바꼭질 4](https://www.acmicpc.net/problem/13913) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [정답 코드](../0x07_BFS/13913.cpp) |
 |  | 응용 문제 | | 14442 | [벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [정답 코드](../0x07_BFS/14442.cpp) |
